@@ -2,28 +2,27 @@
 
 ---
 
-### Category Name 1 
+### Cool Projects 
 
-[Project 1 Title](/sample_page)
+[The Lymph Corset](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Flexible Circuit on SCOBY](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Crab Rave](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### School Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Dinosaur Lightning Tornado Robot](http://example.com/)
+- [Base Excitation Vibration Rig](http://example.com/)
+- [Cooper Cities](http://example.com/)
+
 
 ---
 
