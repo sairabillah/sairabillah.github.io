@@ -3,7 +3,8 @@ logo: "/images/saira.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a senior mechanical engineer at the Cooper Union looking for a full-time position after May 2025!
   <br><br>
-  
+  I enjoy designing and building projects, as well as the troubleshooting and prototyping process it involves!
+  <br><br>
   <a href="https://www.linkedin.com/in/saira-billah-63905a230/">View My LinkedIn Profile</a>
 
 remote_theme: "pages-themes/minimal@v0.2.0"
