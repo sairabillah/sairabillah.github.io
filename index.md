@@ -15,7 +15,7 @@ The Lymph Corset is a vibrational compression garment for breast cancer survivor
 
 SCOBY is the byproduct of kombucha tea, and research was conducted to find a sustainable alternative to use SCOBY as a flexible wearable electronic device. In a dried state, SCOBY forms a fabric, leather-like material that can be used in various ways. I purified and prepped SCOBY to be easily manufacturable and developed a novel way to make a circuit on a flexible material as a sustainable alternative to flexible circuits on the market. 
 
-[![Watch the video](https://raw.githubusercontent.com/sairabillah/sairabillah.github.io/master/images/lymphcorset.jpg)](https://raw.githubusercontent.com/sairabillah/sairabillah.github.io/master/images/kombuchavideo.jpg)
+[![Watch the video](https://raw.githubusercontent.com/sairabillah/sairabillah.github.io/master/images/kombuchacircuit.jpg)](https://raw.githubusercontent.com/sairabillah/sairabillah.github.io/master/images/kombuchavideo.jpg)
 
 
 
@@ -39,9 +39,13 @@ The Crab Rave is an autonomous mobile robot that was created to compete in the F
 
 - [Dinosaur Lightning Tornado Robot](/pdf/Mechatronics.pdf)
 - [Base Excitation Vibration Rig](/pdf/Vibrations.pdf)
+
+  
 <!--
 - [Cooper Cities](/sample_page)
 -->
+
+
 ---
 
 ### FEA Analysis Projects
@@ -49,6 +53,8 @@ The Crab Rave is an autonomous mobile robot that was created to compete in the F
 <!-- 
 - [Wind Turbine Analysis](/pdf/sample_presentation.pdf)
 -->
+
+
 - [Turducken Analysis](/pdf/Turducken.pdf)
 
 
