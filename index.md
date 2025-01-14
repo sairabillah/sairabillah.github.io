@@ -23,6 +23,7 @@
 - [Base Excitation Vibration Rig](http://example.com/)
 - [Cooper Cities](http://example.com/)
 - [Wind Turbine Analysis](http://example.com/)
+- [Turducken Analysis](http://example.com/)
 
 
 ---
