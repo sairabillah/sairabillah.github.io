@@ -4,7 +4,7 @@
 
 ### Cool Projects 
 
-[The Lymph Corset](/sample_page)
+[The Lymph Corset](https://inventionfactory.org/inventions/lymph-corset)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -14,7 +14,11 @@
 ---
 [Crab Rave](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<!-- 
+[The Lymph Corset](/sample_page)
+[Flexible Circuit on SCOBY](/pdf/sample_presentation.pdf)
+[Crab Rave](http://example.com/)
+-->
 ---
 
 ### School Projects
